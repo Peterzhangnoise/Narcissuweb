@@ -31,7 +31,7 @@
   min-height: 300px;
   padding: 2em 0 4em 0;
   height: 10vh;
-  background: url(/images/pic000.jpg) bottom center;
+  background: url(/images/ai-pic000.png) bottom center;
   background-size: cover;
   background-attachment: fixed;
   box-shadow: 0 0 15px #e44c65;
@@ -3375,7 +3375,7 @@
 	#banner {
 		background-attachment: fixed;
 		background-color: #272833;
-		background-image: url("../../images/pic000.jpg");
+		background-image: url("../../images/ai-pic000.png");
 		background-position: center center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
